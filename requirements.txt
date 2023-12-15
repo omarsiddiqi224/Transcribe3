@@ -1,0 +1,4 @@
+wget
+pipx
+gradio
+langchain
